@@ -1,0 +1,292 @@
+[
+    {
+        "Date": "08/20/2019",
+        "Device": "Coolpad Cool 1 Dual",
+        "CodeName": "C103",
+        "maintainer": "@epicX67",
+        "twrp_ver": "3.3.1",
+        "shrp_ver": "2.1 stable",
+        "dwnldLink": "Link",
+        "extraInfo": "Non Treble Only"
+    },
+    {
+        "Date": "08/20/2019",
+        "Device": "Lenovo K3 Note",
+        "CodeName": "aio_otfp",
+        "maintainer": "@SRnine",
+        "twrp_ver": "3.2.3",
+        "shrp_ver": "2.0 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "Pending",
+        "Device": "Asus Max Pro M1",
+        "CodeName": "X00T",
+        "maintainer": "@Dr_tSin",
+        "twrp_ver": "3.3.1-0",
+        "shrp_ver": "2.0 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "",
+        "Device": "ZUK Z2 Plus",
+        "CodeName": "z2_plus",
+        "maintainer": "@epicX67",
+        "twrp_ver": "3.3.1",
+        "shrp_ver": "2.1 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "",
+        "Device": "Xiaomi Poco F1",
+        "CodeName": "Beryllium",
+        "maintainer": "@Reignz3",
+        "twrp_ver": "3.3.0",
+        "shrp_ver": "2.1 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "",
+        "Device": "LeEco Le2",
+        "CodeName": "s2",
+        "maintainer": "@TechyHk",
+        "twrp_ver": "3.3.1",
+        "shrp_ver": "2.0 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "Pending",
+        "Device": "Xiaomi Redmi 4A",
+        "CodeName": "Rolex",
+        "maintainer": "@Aarish124",
+        "twrp_ver": "3.3.1",
+        "shrp_ver": "2.0 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "Pending",
+        "Device": "Xiaomi Redmi 5A",
+        "CodeName": "Riva",
+        "maintainer": "@Aarish124",
+        "twrp_ver": "3.3.1",
+        "shrp_ver": "2.0 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "Pending",
+        "Device": "Xiaomi Redmi 5",
+        "CodeName": "Rosy",
+        "maintainer": "@Aarish124",
+        "twrp_ver": "3.3.1",
+        "shrp_ver": "2.0 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "Pending",
+        "Device": "Moto G5 Plus",
+        "CodeName": "Potter",
+        "maintainer": "@daemon1024",
+        "twrp_ver": "3.3.1-0",
+        "shrp_ver": "2.0 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "Pending",
+        "Device": "Realme 1",
+        "CodeName": "CPH1859",
+        "maintainer": "@Aarish124",
+        "twrp_ver": "3.3.1",
+        "shrp_ver": "2.0 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "Pending",
+        "Device": "Xiaomi Mi A2 lite",
+        "CodeName": "Daisy",
+        "maintainer": "@tunasahinn",
+        "twrp_ver": "3.3.1",
+        "shrp_ver": "2.0 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "Pending",
+        "Device": "Xiaomi Redmi Note 4",
+        "CodeName": "Mido",
+        "maintainer": "@GiaSen",
+        "twrp_ver": "3.3.1-0",
+        "shrp_ver": "2.1 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "",
+        "Device": "Xiaomi Redmi Note 5 Pro",
+        "CodeName": "Whyred",
+        "maintainer": "@Iam_PAIN",
+        "twrp_ver": "3.3.2",
+        "shrp_ver": "2.1 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "09/01/2019",
+        "Device": "Xiaomi Mi 6",
+        "CodeName": "Sagit",
+        "maintainer": "@Adoantoni",
+        "twrp_ver": "3.3.1-0",
+        "shrp_ver": "2.1 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "",
+        "Device": "Xiaomi Redmi 4x",
+        "CodeName": "Santoni",
+        "maintainer": "@helloabhishek",
+        "twrp_ver": "3.3.1-0",
+        "shrp_ver": "2.1 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "Pending",
+        "Device": "Yu Yureka Black",
+        "CodeName": "Garlic",
+        "maintainer": "@Dr_tSin",
+        "twrp_ver": "3.3.1-0",
+        "shrp_ver": "2.0 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "Pending",
+        "Device": "Xiaomi Redmi Note 5/ 5 Plus",
+        "CodeName": "Vince",
+        "maintainer": "@Dr_tSin",
+        "twrp_ver": "3.3.1-0",
+        "shrp_ver": "2.0 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "09/04/2019",
+        "Device": "OnePlus 3 / 3T",
+        "CodeName": "oneplus3",
+        "maintainer": "@tard3x",
+        "twrp_ver": "3.3.1",
+        "shrp_ver": "2.1 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "",
+        "Device": "Xiaomi Redmi Note 7",
+        "CodeName": "levender",
+        "maintainer": "@gabbyintegral",
+        "twrp_ver": "3.3.2",
+        "shrp_ver": "2.1 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "",
+        "Device": "Asus Max M1",
+        "CodeName": "X00P",
+        "maintainer": "@gabbyintegral",
+        "twrp_ver": "3.3.2",
+        "shrp_ver": "2.1 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "",
+        "Device": "Moto G5s Plus",
+        "CodeName": "Sanders",
+        "maintainer": "@devsgt",
+        "twrp_ver": "3.3.1-2",
+        "shrp_ver": "2.1 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "",
+        "Device": "Xiaomi Mi4i",
+        "CodeName": "Ferrari",
+        "maintainer": "@devsgt",
+        "twrp_ver": "3.3.1",
+        "shrp_ver": "2.1 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "09/04/2019",
+        "Device": "OnePlus 5 / 5T",
+        "CodeName": "oneplus5/5t",
+        "maintainer": "@Surya_Nivas",
+        "twrp_ver": "3.3.1",
+        "shrp_ver": "2.1 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "09/04/2019",
+        "Device": "Samsung A6",
+        "CodeName": "A6ltexx",
+        "maintainer": "@Marchetto94",
+        "twrp_ver": "3.2.3",
+        "shrp_ver": "2.1 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "09/04/2019",
+        "Device": "Samsung J5 Pro",
+        "CodeName": "j5y17lte",
+        "maintainer": "@Marchetto94",
+        "twrp_ver": "3.2.3",
+        "shrp_ver": "2.1 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "09/04/2019",
+        "Device": "Samsung J6",
+        "CodeName": "j6ltedx",
+        "maintainer": "@Marchetto94",
+        "twrp_ver": "3.2.3",
+        "shrp_ver": "2.1 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "09/04/2019",
+        "Device": "Samsung J7 Nxt",
+        "CodeName": "j7velte",
+        "maintainer": "@Marchetto94",
+        "twrp_ver": "3.2.1",
+        "shrp_ver": "2.1 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    },
+    {
+        "Date": "09/04/2019",
+        "Device": "Samsung J7 Pro",
+        "CodeName": "j7y17lte",
+        "maintainer": "@Marchetto94",
+        "twrp_ver": "3.2.3",
+        "shrp_ver": "2.1 stable",
+        "dwnldLink": "",
+        "extraInfo": ""
+    }
+]
